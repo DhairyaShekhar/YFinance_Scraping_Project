@@ -12,7 +12,7 @@ Simple and user-friendly command-line interface.
 
 **Usage:**
 Clone the repository.
-Run the script (stock_scraper.py).
+Run the script.
 Enter the stock symbol when prompted.
 
 **Prerequisites:**
